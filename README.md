@@ -2,7 +2,7 @@
 
 Hey all!
 
-So I was working with a client and he wanted me to build just a simple company website page, but eventually wanted to scale it to have users/database info.
+So I was working with a client and he wanted me to build just a simple company website page, but eventually wanted to scale it to have users/database stuff, eventually turning it into a web app.
 
 
 Instead of just building static html pages for him and having to scrap those once he did wanted to scale it, I decided to just start the whole project in Rails first and scale it as needed.
